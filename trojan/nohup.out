@@ -1,0 +1,577 @@
+Welcome to trojan 1.16.0
+[2025-08-14 01:17:01] [WARN] trojan service (client) started at 127.0.0.1:1080
+[2025-08-14 01:17:04] [INFO] 127.0.0.1:45396 requested connection to 1.1.1.1:443
+[2025-08-14 01:17:04] [INFO] 127.0.0.1:45396 disconnected, 4532 bytes received, 742 bytes sent, lasted for 0 seconds
+[2025-08-14 01:17:04] [INFO] 127.0.0.1:45402 requested connection to 1.1.1.1:443
+[2025-08-14 01:17:04] [INFO] 127.0.0.1:45402 disconnected, 4314 bytes received, 737 bytes sent, lasted for 0 seconds
+[2025-08-14 01:17:04] [INFO] 127.0.0.1:45414 requested connection to 146.190.110.131:4444
+[2025-08-14 01:17:04] [INFO] 127.0.0.1:45430 requested connection to 51.195.88.15:12020
+[2025-08-14 01:40:17] [WARN] got signal: 1
+[2025-08-14 01:40:17] [WARN] trojan service stopped
+[2025-08-14 01:40:17] [WARN] trojan service restarting. . . 
+[2025-08-14 01:40:17] [WARN] trojan service (client) started at 127.0.0.1:1080
+[2025-08-14 01:40:22] [INFO] 127.0.0.1:50100 requested connection to 1.1.1.1:443
+[2025-08-14 01:40:23] [INFO] 127.0.0.1:50100 disconnected, 4247 bytes received, 737 bytes sent, lasted for 1 seconds
+[2025-08-14 01:40:23] [INFO] 127.0.0.1:50116 requested connection to 1.1.1.1:443
+[2025-08-14 01:40:23] [INFO] 127.0.0.1:50132 requested connection to 203.23.128.70:5104
+[2025-08-14 01:40:24] [INFO] 127.0.0.1:50116 disconnected, 4531 bytes received, 742 bytes sent, lasted for 1 seconds
+[2025-08-14 01:40:24] [INFO] 127.0.0.1:50142 requested connection to 146.190.110.131:4444
+[2025-08-14 01:41:33] [INFO] 127.0.0.1:44126 requested connection to 1.1.1.1:443
+[2025-08-14 01:41:34] [INFO] 127.0.0.1:44126 disconnected, 4584 bytes received, 736 bytes sent, lasted for 1 seconds
+[2025-08-14 01:41:34] [INFO] 127.0.0.1:44130 requested connection to 141.95.124.98:11010
+[2025-08-14 01:41:48] [INFO] 127.0.0.1:44130 disconnected, 7228 bytes received, 557 bytes sent, lasted for 14 seconds
+[2025-08-14 01:41:48] [INFO] 127.0.0.1:47066 requested connection to 1.1.1.1:443
+[2025-08-14 01:41:48] [INFO] 127.0.0.1:47066 disconnected, 4251 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 01:41:48] [INFO] 127.0.0.1:47078 requested connection to 135.125.8.172:9720
+[2025-08-14 01:42:33] [INFO] 127.0.0.1:50132 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 01:56:57] [INFO] 127.0.0.1:47078 disconnected, 27540 bytes received, 552 bytes sent, lasted for 909 seconds
+[2025-08-14 01:57:02] [INFO] 127.0.0.1:56894 requested connection to 1.1.1.1:443
+[2025-08-14 01:57:02] [INFO] 127.0.0.1:56894 disconnected, 4252 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 01:57:02] [INFO] 127.0.0.1:56906 requested connection to 135.125.8.172:9720
+[2025-08-14 02:22:01] [INFO] 127.0.0.1:56906 disconnected, 54114 bytes received, 810 bytes sent, lasted for 1499 seconds
+[2025-08-14 02:22:06] [INFO] 127.0.0.1:46300 requested connection to 1.1.1.1:443
+[2025-08-14 02:22:06] [INFO] 127.0.0.1:46300 disconnected, 4303 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 02:22:06] [INFO] 127.0.0.1:50118 requested connection to 185.95.218.43:443
+[2025-08-14 02:22:07] [INFO] 127.0.0.1:50118 disconnected, 3315 bytes received, 752 bytes sent, lasted for 1 seconds
+[2025-08-14 02:22:07] [INFO] 127.0.0.1:50122 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 02:22:07] [INFO] 127.0.0.1:50130 requested connection to 98.159.108.71:24443
+[2025-08-14 02:23:01] [INFO] 127.0.0.1:50130 disconnected, 0 bytes received, 194 bytes sent, lasted for 54 seconds
+[2025-08-14 02:23:01] [INFO] 127.0.0.1:50142 disconnected, 91016 bytes received, 46321 bytes sent, lasted for 2557 seconds
+[2025-08-14 02:23:06] [INFO] 127.0.0.1:48678 requested connection to 1.1.1.1:443
+[2025-08-14 02:23:06] [INFO] 127.0.0.1:48678 disconnected, 4313 bytes received, 737 bytes sent, lasted for 0 seconds
+[2025-08-14 02:23:06] [INFO] 127.0.0.1:38176 requested connection to 1.1.1.1:443
+[2025-08-14 02:23:06] [INFO] 127.0.0.1:38184 requested connection to 51.89.64.65:12020
+[2025-08-14 02:23:07] [INFO] 127.0.0.1:38176 disconnected, 4532 bytes received, 742 bytes sent, lasted for 1 seconds
+[2025-08-14 02:23:07] [INFO] 127.0.0.1:38196 requested connection to 146.190.110.131:4444
+[2025-08-14 02:24:01] [INFO] 127.0.0.1:38196 disconnected, 3923 bytes received, 1243 bytes sent, lasted for 54 seconds
+[2025-08-14 02:24:06] [INFO] 127.0.0.1:48746 requested connection to 1.1.1.1:443
+[2025-08-14 02:24:06] [INFO] 127.0.0.1:48746 disconnected, 4533 bytes received, 742 bytes sent, lasted for 0 seconds
+[2025-08-14 02:24:06] [INFO] 127.0.0.1:48750 requested connection to 146.190.110.131:4444
+[2025-08-14 03:03:22] [INFO] 127.0.0.1:38184 disconnected, 71474 bytes received, 817 bytes sent, lasted for 2416 seconds
+[2025-08-14 03:03:27] [INFO] 127.0.0.1:53788 requested connection to 1.1.1.1:443
+[2025-08-14 03:03:27] [INFO] 127.0.0.1:53788 disconnected, 4249 bytes received, 737 bytes sent, lasted for 0 seconds
+[2025-08-14 03:03:27] [INFO] 127.0.0.1:53792 requested connection to 203.23.128.70:5104
+[2025-08-14 03:04:38] [INFO] 127.0.0.1:41182 requested connection to 1.1.1.1:443
+[2025-08-14 03:04:38] [INFO] 127.0.0.1:41182 disconnected, 4584 bytes received, 736 bytes sent, lasted for 0 seconds
+[2025-08-14 03:04:38] [INFO] 127.0.0.1:41184 requested connection to 141.95.124.98:11010
+[2025-08-14 03:05:01] [INFO] 127.0.0.1:41184 disconnected, 7228 bytes received, 557 bytes sent, lasted for 23 seconds
+[2025-08-14 03:05:01] [INFO] 127.0.0.1:57778 requested connection to 1.1.1.1:443
+[2025-08-14 03:05:03] [INFO] 127.0.0.1:57778 disconnected, 4250 bytes received, 738 bytes sent, lasted for 2 seconds
+[2025-08-14 03:05:03] [INFO] 127.0.0.1:57788 requested connection to 135.125.8.172:9720
+[2025-08-14 03:05:38] [INFO] 127.0.0.1:53792 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 03:20:57] [INFO] 127.0.0.1:57788 disconnected, 33240 bytes received, 552 bytes sent, lasted for 954 seconds
+[2025-08-14 03:21:02] [INFO] 127.0.0.1:34876 requested connection to 1.1.1.1:443
+[2025-08-14 03:21:02] [INFO] 127.0.0.1:34876 disconnected, 4252 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 03:21:02] [INFO] 127.0.0.1:34888 requested connection to 135.125.8.172:9720
+[2025-08-14 03:36:57] [INFO] 127.0.0.1:34888 disconnected, 31815 bytes received, 552 bytes sent, lasted for 955 seconds
+[2025-08-14 03:37:02] [INFO] 127.0.0.1:33684 requested connection to 1.1.1.1:443
+[2025-08-14 03:37:02] [INFO] 127.0.0.1:33684 disconnected, 4301 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 03:37:02] [INFO] 127.0.0.1:33696 requested connection to 185.95.218.42:443
+[2025-08-14 03:37:03] [INFO] 127.0.0.1:33696 disconnected, 3316 bytes received, 752 bytes sent, lasted for 1 seconds
+[2025-08-14 03:37:03] [INFO] 127.0.0.1:33698 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 03:37:03] [INFO] 127.0.0.1:33702 requested connection to 185.60.219.36:24443
+[2025-08-14 03:38:12] [INFO] 127.0.0.1:48166 requested connection to 1.1.1.1:443
+[2025-08-14 03:38:13] [INFO] 127.0.0.1:48166 disconnected, 4586 bytes received, 736 bytes sent, lasted for 1 seconds
+[2025-08-14 03:38:13] [INFO] 127.0.0.1:48182 requested connection to 141.95.124.99:11010
+[2025-08-14 03:38:32] [INFO] 127.0.0.1:48182 disconnected, 7228 bytes received, 557 bytes sent, lasted for 19 seconds
+[2025-08-14 03:38:32] [INFO] 127.0.0.1:38754 requested connection to 1.1.1.1:443
+[2025-08-14 03:38:32] [INFO] 127.0.0.1:38754 disconnected, 4251 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 03:38:32] [INFO] 127.0.0.1:38770 requested connection to 135.125.8.172:9720
+[2025-08-14 03:39:13] [INFO] 127.0.0.1:33702 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 03:54:57] [INFO] 127.0.0.1:38770 disconnected, 31815 bytes received, 552 bytes sent, lasted for 985 seconds
+[2025-08-14 03:55:02] [INFO] 127.0.0.1:34130 requested connection to 1.1.1.1:443
+[2025-08-14 03:55:02] [INFO] 127.0.0.1:34130 disconnected, 4250 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 03:55:02] [INFO] 127.0.0.1:34138 requested connection to 135.125.8.172:9720
+[2025-08-14 04:10:57] [INFO] 127.0.0.1:34138 disconnected, 31245 bytes received, 552 bytes sent, lasted for 955 seconds
+[2025-08-14 04:11:02] [INFO] 127.0.0.1:46544 requested connection to 1.1.1.1:443
+[2025-08-14 04:11:02] [INFO] 127.0.0.1:46544 disconnected, 4302 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 04:11:02] [INFO] 127.0.0.1:46556 requested connection to 185.95.218.43:443
+[2025-08-14 04:11:03] [INFO] 127.0.0.1:46556 disconnected, 3316 bytes received, 752 bytes sent, lasted for 1 seconds
+[2025-08-14 04:11:03] [INFO] 127.0.0.1:46570 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 04:11:08] [INFO] 127.0.0.1:57206 requested connection to 1.1.1.1:443
+[2025-08-14 04:11:09] [INFO] 127.0.0.1:57206 disconnected, 4316 bytes received, 737 bytes sent, lasted for 1 seconds
+[2025-08-14 04:11:09] [INFO] 127.0.0.1:57210 requested connection to 51.89.64.65:12020
+[2025-08-14 04:41:10] [INFO] 127.0.0.1:57210 disconnected, 55204 bytes received, 559 bytes sent, lasted for 1801 seconds
+[2025-08-14 04:41:15] [INFO] 127.0.0.1:34780 requested connection to 1.1.1.1:443
+[2025-08-14 04:41:16] [INFO] 127.0.0.1:34780 disconnected, 4247 bytes received, 737 bytes sent, lasted for 1 seconds
+[2025-08-14 04:41:16] [INFO] 127.0.0.1:34794 requested connection to 203.23.128.70:5104
+[2025-08-14 04:42:26] [INFO] 127.0.0.1:37200 requested connection to 1.1.1.1:443
+[2025-08-14 04:42:27] [INFO] 127.0.0.1:37200 disconnected, 4585 bytes received, 736 bytes sent, lasted for 1 seconds
+[2025-08-14 04:42:27] [INFO] 127.0.0.1:37204 requested connection to 141.95.34.186:11010
+[2025-08-14 04:42:42] [INFO] 127.0.0.1:37204 disconnected, 7228 bytes received, 557 bytes sent, lasted for 15 seconds
+[2025-08-14 04:42:42] [INFO] 127.0.0.1:38964 requested connection to 1.1.1.1:443
+[2025-08-14 04:42:42] [INFO] 127.0.0.1:38964 disconnected, 4252 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 04:42:42] [INFO] 127.0.0.1:38974 requested connection to 135.125.8.172:9720
+[2025-08-14 04:43:26] [INFO] 127.0.0.1:34794 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 04:58:57] [INFO] 127.0.0.1:38974 disconnected, 32385 bytes received, 552 bytes sent, lasted for 975 seconds
+[2025-08-14 04:59:02] [INFO] 127.0.0.1:38344 requested connection to 1.1.1.1:443
+[2025-08-14 04:59:02] [INFO] 127.0.0.1:38344 disconnected, 4249 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 04:59:02] [INFO] 127.0.0.1:38352 requested connection to 135.125.8.172:9720
+[2025-08-14 05:14:57] [INFO] 127.0.0.1:38352 disconnected, 30105 bytes received, 552 bytes sent, lasted for 955 seconds
+[2025-08-14 05:15:02] [INFO] 127.0.0.1:49554 requested connection to 1.1.1.1:443
+[2025-08-14 05:15:02] [INFO] 127.0.0.1:49554 disconnected, 4302 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 05:15:02] [INFO] 127.0.0.1:49564 requested connection to 185.95.218.42:443
+[2025-08-14 05:15:03] [INFO] 127.0.0.1:49564 disconnected, 3315 bytes received, 752 bytes sent, lasted for 1 seconds
+[2025-08-14 05:15:03] [INFO] 127.0.0.1:49578 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 05:15:03] [INFO] 127.0.0.1:49580 requested connection to 31.13.96.208:24443
+[2025-08-14 05:16:13] [INFO] 127.0.0.1:44200 requested connection to 1.1.1.1:443
+[2025-08-14 05:16:13] [INFO] 127.0.0.1:44200 disconnected, 4586 bytes received, 736 bytes sent, lasted for 0 seconds
+[2025-08-14 05:16:13] [INFO] 127.0.0.1:44216 requested connection to 141.95.34.186:11010
+[2025-08-14 05:16:27] [INFO] 127.0.0.1:44216 disconnected, 7228 bytes received, 557 bytes sent, lasted for 14 seconds
+[2025-08-14 05:16:27] [INFO] 127.0.0.1:53358 requested connection to 1.1.1.1:443
+[2025-08-14 05:16:27] [INFO] 127.0.0.1:53358 disconnected, 4250 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 05:16:27] [INFO] 127.0.0.1:53372 requested connection to 135.125.8.172:9720
+[2025-08-14 05:17:13] [INFO] 127.0.0.1:49580 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 05:22:01] [INFO] 127.0.0.1:53372 disconnected, 12435 bytes received, 552 bytes sent, lasted for 334 seconds
+[2025-08-14 05:22:01] [INFO] 127.0.0.1:48750 disconnected, 359602 bytes received, 191565 bytes sent, lasted for 10675 seconds
+[2025-08-14 05:22:06] [INFO] 127.0.0.1:36724 requested connection to 1.1.1.1:443
+[2025-08-14 05:22:06] [INFO] 127.0.0.1:36724 disconnected, 4251 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 05:22:06] [INFO] 127.0.0.1:36726 requested connection to 1.1.1.1:443
+[2025-08-14 05:22:06] [INFO] 127.0.0.1:36736 requested connection to 135.125.8.172:9720
+[2025-08-14 05:22:06] [INFO] 127.0.0.1:36726 disconnected, 4533 bytes received, 742 bytes sent, lasted for 0 seconds
+[2025-08-14 05:22:06] [INFO] 127.0.0.1:49596 requested connection to 146.190.110.131:4444
+[2025-08-14 05:23:01] [INFO] 127.0.0.1:49596 disconnected, 3152 bytes received, 1452 bytes sent, lasted for 55 seconds
+[2025-08-14 05:23:01] [INFO] 127.0.0.1:36736 disconnected, 4740 bytes received, 552 bytes sent, lasted for 55 seconds
+[2025-08-14 05:23:06] [INFO] 127.0.0.1:53600 requested connection to 1.1.1.1:443
+[2025-08-14 05:23:06] [INFO] 127.0.0.1:53600 disconnected, 4532 bytes received, 742 bytes sent, lasted for 0 seconds
+[2025-08-14 05:23:06] [INFO] 127.0.0.1:59352 requested connection to 1.1.1.1:443
+[2025-08-14 05:23:07] [INFO] 127.0.0.1:59352 disconnected, 4303 bytes received, 731 bytes sent, lasted for 1 seconds
+[2025-08-14 05:23:07] [INFO] 127.0.0.1:59356 requested connection to 146.190.110.131:4444
+[2025-08-14 05:23:07] [INFO] 127.0.0.1:59366 requested connection to 185.95.218.42:443
+[2025-08-14 05:23:09] [INFO] 127.0.0.1:59366 disconnected, 2494 bytes received, 752 bytes sent, lasted for 2 seconds
+[2025-08-14 05:23:09] [INFO] 127.0.0.1:59370 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 05:23:09] [INFO] 127.0.0.1:59384 requested connection to 2001::80f2:f075:24443
+[2025-08-14 05:24:17] [INFO] 127.0.0.1:58408 requested connection to 1.1.1.1:443
+[2025-08-14 05:24:17] [INFO] 127.0.0.1:58408 disconnected, 4584 bytes received, 736 bytes sent, lasted for 0 seconds
+[2025-08-14 05:24:17] [INFO] 127.0.0.1:58424 requested connection to 141.95.35.152:11010
+[2025-08-14 05:24:27] [INFO] 127.0.0.1:58424 disconnected, 7228 bytes received, 557 bytes sent, lasted for 10 seconds
+[2025-08-14 05:24:27] [INFO] 127.0.0.1:35582 requested connection to 1.1.1.1:443
+[2025-08-14 05:24:27] [INFO] 127.0.0.1:35582 disconnected, 4252 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 05:24:27] [INFO] 127.0.0.1:35584 requested connection to 135.125.8.172:9720
+[2025-08-14 05:25:21] [INFO] 127.0.0.1:59384 disconnected, 0 bytes received, 194 bytes sent, lasted for 132 seconds
+[2025-08-14 05:40:57] [INFO] 127.0.0.1:35584 disconnected, 26970 bytes received, 552 bytes sent, lasted for 990 seconds
+[2025-08-14 05:41:02] [INFO] 127.0.0.1:39108 requested connection to 1.1.1.1:443
+[2025-08-14 05:41:02] [INFO] 127.0.0.1:39108 disconnected, 4250 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 05:41:02] [INFO] 127.0.0.1:39118 requested connection to 135.125.8.172:9720
+[2025-08-14 05:56:57] [INFO] 127.0.0.1:39118 disconnected, 30390 bytes received, 552 bytes sent, lasted for 955 seconds
+[2025-08-14 05:57:02] [INFO] 127.0.0.1:44860 requested connection to 1.1.1.1:443
+[2025-08-14 05:57:02] [INFO] 127.0.0.1:44860 disconnected, 4303 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 05:57:02] [INFO] 127.0.0.1:44872 requested connection to 185.95.218.42:443
+[2025-08-14 05:57:04] [INFO] 127.0.0.1:44872 disconnected, 2494 bytes received, 752 bytes sent, lasted for 2 seconds
+[2025-08-14 05:57:04] [INFO] 127.0.0.1:44884 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 05:57:04] [INFO] 127.0.0.1:44886 requested connection to 31.13.96.208:24443
+[2025-08-14 05:58:12] [INFO] 127.0.0.1:52194 requested connection to 1.1.1.1:443
+[2025-08-14 05:58:12] [INFO] 127.0.0.1:52194 disconnected, 4585 bytes received, 736 bytes sent, lasted for 0 seconds
+[2025-08-14 05:58:12] [INFO] 127.0.0.1:52198 requested connection to 141.95.34.186:11010
+[2025-08-14 05:58:17] [INFO] 127.0.0.1:52198 disconnected, 7228 bytes received, 557 bytes sent, lasted for 5 seconds
+[2025-08-14 05:58:17] [INFO] 127.0.0.1:36670 requested connection to 1.1.1.1:443
+[2025-08-14 05:58:17] [INFO] 127.0.0.1:36670 disconnected, 4250 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 05:58:17] [INFO] 127.0.0.1:36684 requested connection to 135.125.8.172:9720
+[2025-08-14 05:59:14] [INFO] 127.0.0.1:44886 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 06:14:57] [INFO] 127.0.0.1:36684 disconnected, 38940 bytes received, 552 bytes sent, lasted for 1000 seconds
+[2025-08-14 06:15:02] [INFO] 127.0.0.1:35710 requested connection to 1.1.1.1:443
+[2025-08-14 06:15:02] [INFO] 127.0.0.1:35710 disconnected, 4251 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 06:15:02] [INFO] 127.0.0.1:35714 requested connection to 135.125.8.172:9720
+[2025-08-14 06:30:57] [INFO] 127.0.0.1:35714 disconnected, 26685 bytes received, 552 bytes sent, lasted for 955 seconds
+[2025-08-14 06:31:02] [INFO] 127.0.0.1:36830 requested connection to 1.1.1.1:443
+[2025-08-14 06:31:02] [INFO] 127.0.0.1:36830 disconnected, 4302 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 06:31:02] [INFO] 127.0.0.1:36846 requested connection to 185.95.218.43:443
+[2025-08-14 06:31:03] [INFO] 127.0.0.1:36846 disconnected, 3316 bytes received, 752 bytes sent, lasted for 1 seconds
+[2025-08-14 06:31:03] [INFO] 127.0.0.1:36860 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 06:31:03] [INFO] 127.0.0.1:36874 requested connection to 148.163.48.215:24443
+[2025-08-14 06:32:12] [INFO] 127.0.0.1:60822 requested connection to 1.1.1.1:443
+[2025-08-14 06:32:12] [INFO] 127.0.0.1:60822 disconnected, 4586 bytes received, 736 bytes sent, lasted for 0 seconds
+[2025-08-14 06:32:12] [INFO] 127.0.0.1:60824 requested connection to 141.95.124.99:11010
+[2025-08-14 06:32:28] [INFO] 127.0.0.1:60824 disconnected, 7228 bytes received, 557 bytes sent, lasted for 16 seconds
+[2025-08-14 06:32:28] [INFO] 127.0.0.1:55272 requested connection to 1.1.1.1:443
+[2025-08-14 06:32:28] [INFO] 127.0.0.1:55272 disconnected, 4251 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 06:32:28] [INFO] 127.0.0.1:55278 requested connection to 135.125.8.172:9720
+[2025-08-14 06:33:14] [INFO] 127.0.0.1:36874 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 07:06:57] [INFO] 127.0.0.1:55278 disconnected, 55608 bytes received, 1068 bytes sent, lasted for 2069 seconds
+[2025-08-14 07:07:02] [INFO] 127.0.0.1:45882 requested connection to 1.1.1.1:443
+[2025-08-14 07:07:02] [INFO] 127.0.0.1:45882 disconnected, 4250 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 07:07:02] [INFO] 127.0.0.1:45886 requested connection to 135.125.8.172:9720
+[2025-08-14 07:22:57] [INFO] 127.0.0.1:45886 disconnected, 34095 bytes received, 552 bytes sent, lasted for 955 seconds
+[2025-08-14 07:23:02] [INFO] 127.0.0.1:55140 requested connection to 1.1.1.1:443
+[2025-08-14 07:23:02] [INFO] 127.0.0.1:55140 disconnected, 4302 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 07:23:02] [INFO] 127.0.0.1:55144 requested connection to 185.95.218.43:443
+[2025-08-14 07:23:03] [INFO] 127.0.0.1:55144 disconnected, 3316 bytes received, 752 bytes sent, lasted for 1 seconds
+[2025-08-14 07:23:04] [INFO] 127.0.0.1:55156 disconnected, 0 bytes received, 0 bytes sent, lasted for 1 seconds
+[2025-08-14 07:23:09] [INFO] 127.0.0.1:42282 requested connection to 1.1.1.1:443
+[2025-08-14 07:23:10] [INFO] 127.0.0.1:42282 disconnected, 4315 bytes received, 737 bytes sent, lasted for 1 seconds
+[2025-08-14 07:23:10] [INFO] 127.0.0.1:42288 requested connection to 51.195.88.15:12020
+[2025-08-14 07:53:18] [INFO] 127.0.0.1:42288 disconnected, 55204 bytes received, 559 bytes sent, lasted for 1808 seconds
+[2025-08-14 07:53:23] [INFO] 127.0.0.1:49772 requested connection to 1.1.1.1:443
+[2025-08-14 07:53:24] [INFO] 127.0.0.1:49772 disconnected, 4248 bytes received, 737 bytes sent, lasted for 1 seconds
+[2025-08-14 07:53:24] [INFO] 127.0.0.1:49780 requested connection to 203.23.128.70:5104
+[2025-08-14 07:54:33] [INFO] 127.0.0.1:33890 requested connection to 1.1.1.1:443
+[2025-08-14 07:54:34] [INFO] 127.0.0.1:33890 disconnected, 4586 bytes received, 736 bytes sent, lasted for 1 seconds
+[2025-08-14 07:54:34] [INFO] 127.0.0.1:33898 requested connection to 141.95.124.98:11010
+[2025-08-14 07:54:53] [INFO] 127.0.0.1:33898 disconnected, 7228 bytes received, 557 bytes sent, lasted for 19 seconds
+[2025-08-14 07:54:53] [INFO] 127.0.0.1:39198 requested connection to 1.1.1.1:443
+[2025-08-14 07:54:53] [INFO] 127.0.0.1:39198 disconnected, 4250 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 07:54:53] [INFO] 127.0.0.1:39206 requested connection to 135.125.8.172:9720
+[2025-08-14 07:55:34] [INFO] 127.0.0.1:49780 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 08:22:02] [INFO] 127.0.0.1:39206 disconnected, 60669 bytes received, 810 bytes sent, lasted for 1629 seconds
+[2025-08-14 08:22:02] [INFO] 127.0.0.1:59356 disconnected, 350541 bytes received, 184426 bytes sent, lasted for 10735 seconds
+[2025-08-14 08:22:07] [INFO] 127.0.0.1:46010 requested connection to 1.1.1.1:443
+[2025-08-14 08:22:07] [INFO] 127.0.0.1:46010 disconnected, 4252 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 08:22:07] [INFO] 127.0.0.1:46020 requested connection to 1.1.1.1:443
+[2025-08-14 08:22:07] [INFO] 127.0.0.1:46036 requested connection to 135.125.8.172:9720
+[2025-08-14 08:22:07] [INFO] 127.0.0.1:46020 disconnected, 4532 bytes received, 742 bytes sent, lasted for 0 seconds
+[2025-08-14 08:22:07] [INFO] 127.0.0.1:46046 requested connection to 146.190.110.131:4444
+[2025-08-14 08:24:01] [INFO] 127.0.0.1:46036 disconnected, 5880 bytes received, 552 bytes sent, lasted for 114 seconds
+[2025-08-14 08:24:01] [INFO] 127.0.0.1:46046 disconnected, 4694 bytes received, 2563 bytes sent, lasted for 114 seconds
+[2025-08-14 08:24:06] [INFO] 127.0.0.1:52064 requested connection to 1.1.1.1:443
+[2025-08-14 08:24:06] [INFO] 127.0.0.1:52064 disconnected, 4303 bytes received, 731 bytes sent, lasted for 0 seconds
+[2025-08-14 08:24:06] [INFO] 127.0.0.1:52066 requested connection to 1.1.1.1:443
+[2025-08-14 08:24:07] [INFO] 127.0.0.1:52066 disconnected, 4531 bytes received, 742 bytes sent, lasted for 1 seconds
+[2025-08-14 08:24:07] [INFO] 127.0.0.1:35324 requested connection to 185.95.218.42:443
+[2025-08-14 08:24:08] [INFO] 127.0.0.1:35324 disconnected, 3315 bytes received, 752 bytes sent, lasted for 1 seconds
+[2025-08-14 08:24:08] [INFO] 127.0.0.1:35336 requested connection to 146.190.110.131:4444
+[2025-08-14 08:24:08] [INFO] 127.0.0.1:35342 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 08:24:09] [INFO] 127.0.0.1:35348 requested connection to 202.160.129.37:24443
+[2025-08-14 08:25:17] [INFO] 127.0.0.1:54438 requested connection to 1.1.1.1:443
+[2025-08-14 08:25:17] [INFO] 127.0.0.1:54438 disconnected, 4591 bytes received, 736 bytes sent, lasted for 0 seconds
+[2025-08-14 08:25:17] [INFO] 127.0.0.1:54440 requested connection to 141.95.124.98:11010
+[2025-08-14 08:25:34] [INFO] 127.0.0.1:54440 disconnected, 7228 bytes received, 557 bytes sent, lasted for 17 seconds
+[2025-08-14 08:25:34] [INFO] 127.0.0.1:44618 requested connection to 1.1.1.1:443
+[2025-08-14 08:25:34] [INFO] 127.0.0.1:44618 disconnected, 4251 bytes received, 738 bytes sent, lasted for 0 seconds
+[2025-08-14 08:25:34] [INFO] 127.0.0.1:44624 requested connection to 135.125.8.172:9720
+[2025-08-14 08:26:19] [INFO] 127.0.0.1:35348 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 08:40:57] [INFO] 127.0.0.1:44624 disconnected, 28680 bytes received, 552 bytes sent, lasted for 923 seconds
+[2025-08-14 08:41:02] [INFO] 127.0.0.1:38248 requested connection to 1.1.1.1:443
+[2025-08-14 08:41:03] [INFO] 127.0.0.1:38248 disconnected, 4251 bytes received, 738 bytes sent, lasted for 1 seconds
+[2025-08-14 08:41:03] [INFO] 127.0.0.1:38258 requested connection to 135.125.8.172:9720
+[2025-08-14 08:56:57] [INFO] 127.0.0.1:38258 disconnected, 34095 bytes received, 552 bytes sent, lasted for 954 seconds
+[2025-08-14 08:57:02] [INFO] 127.0.0.1:50716 requested connection to 1.1.1.1:443
+[2025-08-14 08:57:03] [INFO] 127.0.0.1:50716 disconnected, 4302 bytes received, 731 bytes sent, lasted for 1 seconds
+[2025-08-14 08:57:03] [INFO] 127.0.0.1:50728 requested connection to 185.95.218.42:443
+[2025-08-14 08:57:03] [INFO] 127.0.0.1:50728 disconnected, 3315 bytes received, 752 bytes sent, lasted for 0 seconds
+[2025-08-14 08:57:03] [INFO] 127.0.0.1:50732 disconnected, 0 bytes received, 0 bytes sent, lasted for 0 seconds
+[2025-08-14 08:57:09] [INFO] 127.0.0.1:50756 requested connection to 1.1.1.1:443
+[2025-08-14 08:57:09] [INFO] 127.0.0.1:50756 disconnected, 4316 bytes received, 737 bytes sent, lasted for 0 seconds
+[2025-08-14 08:57:10] [INFO] 127.0.0.1:50766 requested connection to 51.195.88.15:12020
+[2025-08-14 09:12:36] [INFO] 127.0.0.1:50766 disconnected, 30465 bytes received, 559 bytes sent, lasted for 926 seconds
+[2025-08-14 09:12:36] [INFO] 127.0.0.1:35336 disconnected, 100839 bytes received, 50028 bytes sent, lasted for 2908 seconds
+[2025-08-14 11:56:22] [INFO] 127.0.0.1:56944 requested connection to 128.242.240.61:11010
+[2025-08-14 11:56:23] [INFO] 127.0.0.1:56958 requested connection to 168.143.171.189:4444
+[2025-08-14 11:57:31] [INFO] 127.0.0.1:38444 requested connection to 168.143.171.189:4444
+[2025-08-14 11:57:35] [INFO] 127.0.0.1:38448 requested connection to 108.160.167.174:11010
+[2025-08-14 11:58:32] [INFO] 127.0.0.1:56944 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 11:58:40] [INFO] 127.0.0.1:56958 disconnected, 0 bytes received, 194 bytes sent, lasted for 137 seconds
+[2025-08-14 11:58:41] [INFO] 127.0.0.1:47754 requested connection to 31.13.71.19:4444
+[2025-08-14 11:58:51] [INFO] 127.0.0.1:33730 requested connection to 98.159.108.58:11010
+[2025-08-14 11:58:55] [INFO] 127.0.0.1:33730 disconnected, 0 bytes received, 194 bytes sent, lasted for 4 seconds
+[2025-08-14 11:59:03] [INFO] 127.0.0.1:51852 requested connection to 135.125.8.172:9720
+[2025-08-14 11:59:26] [INFO] 127.0.0.1:51852 disconnected, 4170 bytes received, 552 bytes sent, lasted for 23 seconds
+[2025-08-14 11:59:29] [INFO] 127.0.0.1:51484 requested connection to 128.242.240.221:12020
+[2025-08-14 11:59:41] [INFO] 127.0.0.1:38444 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 11:59:45] [INFO] 127.0.0.1:38448 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 11:59:51] [INFO] 127.0.0.1:38134 requested connection to 128.121.243.77:4444
+[2025-08-14 12:00:44] [INFO] 127.0.0.1:47298 requested connection to 98.159.108.58:11010
+[2025-08-14 12:00:45] [INFO] 127.0.0.1:47298 disconnected, 0 bytes received, 194 bytes sent, lasted for 1 seconds
+[2025-08-14 12:00:53] [INFO] 127.0.0.1:47754 disconnected, 0 bytes received, 194 bytes sent, lasted for 132 seconds
+[2025-08-14 12:00:53] [INFO] 127.0.0.1:33886 requested connection to 135.125.8.172:9720
+[2025-08-14 12:00:57] [INFO] 127.0.0.1:33886 disconnected, 3234 bytes received, 443 bytes sent, lasted for 4 seconds
+[2025-08-14 12:01:01] [INFO] 127.0.0.1:51972 requested connection to 128.121.243.77:4444
+[2025-08-14 12:01:05] [INFO] 127.0.0.1:51974 requested connection to 69.63.186.31:24443
+[2025-08-14 12:01:40] [INFO] 127.0.0.1:51484 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:02:01] [INFO] 127.0.0.1:54098 requested connection to 141.95.34.186:11010
+[2025-08-14 12:02:02] [INFO] 127.0.0.1:38134 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:02:11] [INFO] 127.0.0.1:36462 requested connection to 128.121.243.77:4444
+[2025-08-14 12:02:15] [INFO] 127.0.0.1:54098 disconnected, 7228 bytes received, 557 bytes sent, lasted for 14 seconds
+[2025-08-14 12:02:18] [INFO] 127.0.0.1:43214 requested connection to 199.16.156.39:12020
+[2025-08-14 12:03:12] [INFO] 127.0.0.1:51972 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:03:16] [INFO] 127.0.0.1:51974 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:03:21] [INFO] 127.0.0.1:54274 requested connection to 108.160.162.31:4444
+[2025-08-14 12:03:34] [INFO] 127.0.0.1:44414 requested connection to 108.160.165.147:11010
+[2025-08-14 12:04:22] [INFO] 127.0.0.1:36462 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:04:28] [INFO] 127.0.0.1:43214 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:04:31] [INFO] 127.0.0.1:44274 requested connection to 128.121.243.77:4444
+[2025-08-14 12:04:50] [INFO] 127.0.0.1:35184 requested connection to 141.95.34.44:11010
+[2025-08-14 12:05:01] [INFO] 127.0.0.1:35184 disconnected, 7228 bytes received, 557 bytes sent, lasted for 11 seconds
+[2025-08-14 12:05:05] [INFO] 127.0.0.1:33402 requested connection to 104.244.46.52:12020
+[2025-08-14 12:05:31] [INFO] 127.0.0.1:54274 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:05:41] [INFO] 127.0.0.1:41732 requested connection to 108.160.165.141:4444
+[2025-08-14 12:05:44] [INFO] 127.0.0.1:44414 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:06:20] [INFO] 127.0.0.1:56574 requested connection to 108.160.165.147:11010
+[2025-08-14 12:06:41] [INFO] 127.0.0.1:44274 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:06:51] [INFO] 127.0.0.1:51736 requested connection to 108.160.165.141:4444
+[2025-08-14 12:07:16] [INFO] 127.0.0.1:33402 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:07:36] [INFO] 127.0.0.1:40412 requested connection to 108.160.165.147:11010
+[2025-08-14 12:07:51] [INFO] 127.0.0.1:41732 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:08:01] [INFO] 127.0.0.1:57482 requested connection to 108.160.165.141:4444
+[2025-08-14 12:08:30] [INFO] 127.0.0.1:56574 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:08:52] [INFO] 127.0.0.1:55226 requested connection to 162.125.2.3:11010
+[2025-08-14 12:09:02] [INFO] 127.0.0.1:51736 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:09:11] [INFO] 127.0.0.1:60738 requested connection to 108.160.162.31:4444
+[2025-08-14 12:09:45] [INFO] 127.0.0.1:40412 disconnected, 0 bytes received, 194 bytes sent, lasted for 129 seconds
+[2025-08-14 12:10:08] [INFO] 127.0.0.1:51816 requested connection to 162.125.2.3:11010
+[2025-08-14 12:10:12] [INFO] 127.0.0.1:57482 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:10:21] [INFO] 127.0.0.1:37110 requested connection to 38.121.72.166:4444
+[2025-08-14 12:11:03] [INFO] 127.0.0.1:55226 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:11:22] [INFO] 127.0.0.1:60738 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:11:24] [INFO] 127.0.0.1:39128 requested connection to 118.184.26.113:11010
+[2025-08-14 12:11:31] [INFO] 127.0.0.1:43760 requested connection to 146.190.110.131:4444
+[2025-08-14 12:12:19] [INFO] 127.0.0.1:51816 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:12:31] [INFO] 127.0.0.1:37110 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:12:40] [INFO] 127.0.0.1:56824 requested connection to 162.125.18.129:11010
+[2025-08-14 12:13:35] [INFO] 127.0.0.1:39128 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:13:56] [INFO] 127.0.0.1:50936 requested connection to 118.184.26.113:11010
+[2025-08-14 12:14:50] [INFO] 127.0.0.1:56824 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:15:12] [INFO] 127.0.0.1:38104 requested connection to 162.125.18.129:11010
+[2025-08-14 12:16:06] [INFO] 127.0.0.1:50936 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:16:28] [INFO] 127.0.0.1:59302 requested connection to 104.244.43.167:11010
+[2025-08-14 12:17:24] [INFO] 127.0.0.1:38104 disconnected, 0 bytes received, 194 bytes sent, lasted for 132 seconds
+[2025-08-14 12:17:44] [INFO] 127.0.0.1:58272 requested connection to 104.244.43.167:11010
+[2025-08-14 12:18:38] [INFO] 127.0.0.1:59302 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:19:01] [INFO] 127.0.0.1:51348 requested connection to 141.95.124.99:11010
+[2025-08-14 12:19:16] [INFO] 127.0.0.1:51348 disconnected, 7228 bytes received, 557 bytes sent, lasted for 15 seconds
+[2025-08-14 12:19:19] [INFO] 127.0.0.1:48528 requested connection to 135.125.8.172:9720
+[2025-08-14 12:19:54] [INFO] 127.0.0.1:58272 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 12:34:57] [INFO] 127.0.0.1:48528 disconnected, 28680 bytes received, 552 bytes sent, lasted for 938 seconds
+[2025-08-14 12:35:05] [INFO] 127.0.0.1:56292 requested connection to 135.125.8.172:9720
+[2025-08-14 12:50:57] [INFO] 127.0.0.1:56292 disconnected, 32670 bytes received, 552 bytes sent, lasted for 952 seconds
+[2025-08-14 12:51:16] [INFO] 127.0.0.1:36846 requested connection to 108.160.162.102:12020
+[2025-08-14 12:52:15] [INFO] 127.0.0.1:50272 requested connection to 128.242.240.218:11010
+[2025-08-14 12:53:27] [INFO] 127.0.0.1:36846 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 12:53:31] [INFO] 127.0.0.1:47700 requested connection to 211.104.160.39:11010
+[2025-08-14 12:54:03] [INFO] 127.0.0.1:47700 disconnected, 0 bytes received, 194 bytes sent, lasted for 32 seconds
+[2025-08-14 12:54:03] [INFO] 127.0.0.1:43760 disconnected, 82070 bytes received, 44737 bytes sent, lasted for 2552 seconds
+[2025-08-14 12:54:03] [INFO] 127.0.0.1:50272 disconnected, 0 bytes received, 194 bytes sent, lasted for 108 seconds
+[2025-08-14 20:33:06] [INFO] 127.0.0.1:49572 requested connection to 157.240.15.8:11010
+[2025-08-14 20:33:08] [INFO] 127.0.0.1:59000 requested connection to 31.13.71.19:3339
+[2025-08-14 20:34:11] [INFO] 127.0.0.1:59000 disconnected, 0 bytes received, 108 bytes sent, lasted for 63 seconds
+[2025-08-14 20:34:15] [INFO] 127.0.0.1:35616 requested connection to 31.13.71.19:3339
+[2025-08-14 20:34:18] [INFO] 127.0.0.1:33728 requested connection to 157.240.15.8:11010
+[2025-08-14 20:35:16] [INFO] 127.0.0.1:49572 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 20:35:21] [INFO] 127.0.0.1:35616 disconnected, 0 bytes received, 108 bytes sent, lasted for 66 seconds
+[2025-08-14 20:35:24] [INFO] 127.0.0.1:39678 requested connection to 31.13.71.19:3339
+[2025-08-14 20:35:35] [INFO] 127.0.0.1:58910 requested connection to 157.240.15.8:11010
+[2025-08-14 20:36:28] [INFO] 127.0.0.1:33728 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 20:36:31] [INFO] 127.0.0.1:39678 disconnected, 0 bytes received, 108 bytes sent, lasted for 67 seconds
+[2025-08-14 20:36:34] [INFO] 127.0.0.1:58910 disconnected, 0 bytes received, 194 bytes sent, lasted for 59 seconds
+[2025-08-14 20:37:13] [INFO] 127.0.0.1:50042 requested connection to 157.240.15.8:11010
+[2025-08-14 20:37:15] [INFO] 127.0.0.1:50054 requested connection to 31.13.71.19:3339
+[2025-08-14 20:38:19] [INFO] 127.0.0.1:50054 disconnected, 0 bytes received, 112 bytes sent, lasted for 64 seconds
+[2025-08-14 20:38:23] [INFO] 127.0.0.1:58980 requested connection to 74.86.118.24:3339
+[2025-08-14 20:38:26] [INFO] 127.0.0.1:58990 requested connection to 128.242.245.29:11010
+[2025-08-14 20:39:24] [INFO] 127.0.0.1:50042 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 20:39:29] [INFO] 127.0.0.1:58980 disconnected, 0 bytes received, 112 bytes sent, lasted for 66 seconds
+[2025-08-14 20:39:32] [INFO] 127.0.0.1:59264 requested connection to 74.86.118.24:3339
+[2025-08-14 20:39:42] [INFO] 127.0.0.1:59334 requested connection to 141.95.34.186:11010
+[2025-08-14 20:40:05] [INFO] 127.0.0.1:59334 disconnected, 7228 bytes received, 557 bytes sent, lasted for 23 seconds
+[2025-08-14 20:40:08] [INFO] 127.0.0.1:50338 requested connection to 157.240.17.35:12020
+[2025-08-14 20:40:36] [INFO] 127.0.0.1:58990 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 20:40:39] [INFO] 127.0.0.1:59264 disconnected, 0 bytes received, 112 bytes sent, lasted for 67 seconds
+[2025-08-14 20:40:42] [INFO] 127.0.0.1:35306 requested connection to 185.45.7.185:3339
+[2025-08-14 20:41:18] [INFO] 127.0.0.1:35306 disconnected, 0 bytes received, 112 bytes sent, lasted for 36 seconds
+[2025-08-14 20:41:18] [INFO] 127.0.0.1:50338 disconnected, 0 bytes received, 194 bytes sent, lasted for 70 seconds
+[2025-08-14 20:45:41] [INFO] 127.0.0.1:38258 requested connection to 141.95.124.89:11010
+[2025-08-14 20:45:42] [INFO] 127.0.0.1:38270 requested connection to 108.160.166.62:3339
+[2025-08-14 20:45:42] [INFO] 127.0.0.1:38258 disconnected, 7228 bytes received, 557 bytes sent, lasted for 1 seconds
+[2025-08-14 20:45:45] [INFO] 127.0.0.1:38272 requested connection to 192.133.77.59:12020
+[2025-08-14 20:46:48] [INFO] 127.0.0.1:38270 disconnected, 0 bytes received, 96 bytes sent, lasted for 66 seconds
+[2025-08-14 20:46:51] [INFO] 127.0.0.1:41670 requested connection to 108.160.167.148:3339
+[2025-08-14 20:46:56] [INFO] 127.0.0.1:41682 requested connection to 141.95.34.44:11010
+[2025-08-14 20:47:09] [INFO] 127.0.0.1:41682 disconnected, 7228 bytes received, 557 bytes sent, lasted for 13 seconds
+[2025-08-14 20:47:12] [INFO] 127.0.0.1:32916 requested connection to 104.16.251.55:12020
+[2025-08-14 20:47:56] [INFO] 127.0.0.1:38272 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 20:47:58] [INFO] 127.0.0.1:41670 disconnected, 0 bytes received, 96 bytes sent, lasted for 67 seconds
+[2025-08-14 20:48:01] [INFO] 127.0.0.1:37730 requested connection to 108.160.166.62:3339
+[2025-08-14 20:48:28] [INFO] 127.0.0.1:47040 requested connection to 31.13.68.169:11010
+[2025-08-14 20:48:44] [INFO] 127.0.0.1:32916 disconnected, 0 bytes received, 194 bytes sent, lasted for 92 seconds
+[2025-08-14 20:48:44] [INFO] 127.0.0.1:37730 disconnected, 0 bytes received, 96 bytes sent, lasted for 43 seconds
+[2025-08-14 20:48:44] [INFO] 127.0.0.1:47040 disconnected, 0 bytes received, 194 bytes sent, lasted for 16 seconds
+[2025-08-14 20:51:29] [INFO] 127.0.0.1:50394 requested connection to 199.16.158.190:11010
+[2025-08-14 20:51:31] [INFO] 127.0.0.1:50396 requested connection to 202.160.128.195:3339
+[2025-08-14 20:52:36] [INFO] 127.0.0.1:50396 disconnected, 0 bytes received, 109 bytes sent, lasted for 65 seconds
+[2025-08-14 20:52:40] [INFO] 127.0.0.1:52998 requested connection to 104.244.46.71:3339
+[2025-08-14 20:52:43] [INFO] 127.0.0.1:52998 disconnected, 0 bytes received, 109 bytes sent, lasted for 3 seconds
+[2025-08-14 20:52:43] [INFO] 127.0.0.1:53000 requested connection to 157.240.15.8:11010
+[2025-08-14 20:52:51] [INFO] 127.0.0.1:33522 requested connection to 104.244.46.71:3339
+[2025-08-14 20:53:34] [INFO] 127.0.0.1:33522 disconnected, 0 bytes received, 109 bytes sent, lasted for 43 seconds
+[2025-08-14 20:53:34] [INFO] 127.0.0.1:53000 disconnected, 0 bytes received, 194 bytes sent, lasted for 51 seconds
+[2025-08-14 20:53:34] [INFO] 127.0.0.1:50394 disconnected, 0 bytes received, 194 bytes sent, lasted for 125 seconds
+[2025-08-14 20:53:51] [INFO] 127.0.0.1:44078 requested connection to 202.160.130.118:11010
+[2025-08-14 20:53:52] [INFO] 127.0.0.1:44082 requested connection to 108.160.166.142:3339
+[2025-08-14 20:54:51] [INFO] 127.0.0.1:44078 disconnected, 0 bytes received, 194 bytes sent, lasted for 60 seconds
+[2025-08-14 20:54:51] [INFO] 127.0.0.1:44082 disconnected, 0 bytes received, 109 bytes sent, lasted for 59 seconds
+[2025-08-14 20:55:39] [INFO] 127.0.0.1:56510 requested connection to 162.125.83.1:11010
+[2025-08-14 20:55:40] [INFO] 127.0.0.1:56522 requested connection to 50.220.121.211:3339
+[2025-08-14 20:56:53] [INFO] 127.0.0.1:44980 requested connection to 202.160.130.118:11010
+[2025-08-14 20:57:50] [INFO] 127.0.0.1:56510 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 20:58:09] [INFO] 127.0.0.1:56738 requested connection to 199.59.150.45:11010
+[2025-08-14 20:59:04] [INFO] 127.0.0.1:44980 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 20:59:25] [INFO] 127.0.0.1:41618 requested connection to 74.86.3.208:11010
+[2025-08-14 21:00:19] [INFO] 127.0.0.1:56738 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 21:00:41] [INFO] 127.0.0.1:56120 requested connection to 199.59.150.45:11010
+[2025-08-14 21:01:35] [INFO] 127.0.0.1:41618 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 21:01:58] [INFO] 127.0.0.1:49102 requested connection to 54.234.18.200:11010
+[2025-08-14 21:02:51] [INFO] 127.0.0.1:56120 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 21:03:13] [INFO] 127.0.0.1:51572 requested connection to 141.95.124.99:11010
+[2025-08-14 21:03:27] [INFO] 127.0.0.1:51572 disconnected, 7228 bytes received, 557 bytes sent, lasted for 14 seconds
+[2025-08-14 21:03:30] [INFO] 127.0.0.1:47104 requested connection to 135.125.8.172:9720
+[2025-08-14 21:04:13] [INFO] 127.0.0.1:49102 disconnected, 0 bytes received, 194 bytes sent, lasted for 135 seconds
+[2025-08-14 21:09:00] [INFO] 127.0.0.1:56522 disconnected, 20377 bytes received, 17794 bytes sent, lasted for 800 seconds
+[2025-08-14 21:09:09] [INFO] 127.0.0.1:48248 requested connection to 50.220.121.211:3339
+[2025-08-14 21:11:43] [INFO] 127.0.0.1:47104 disconnected, 15855 bytes received, 552 bytes sent, lasted for 493 seconds
+[2025-08-14 21:11:43] [INFO] 127.0.0.1:48248 disconnected, 3045 bytes received, 2245 bytes sent, lasted for 154 seconds
+[2025-08-14 21:12:22] [INFO] 127.0.0.1:37934 requested connection to 54.234.18.200:11010
+[2025-08-14 21:12:23] [INFO] 127.0.0.1:37940 requested connection to 108.160.166.142:3339
+[2025-08-14 21:13:29] [INFO] 127.0.0.1:37940 disconnected, 0 bytes received, 117 bytes sent, lasted for 66 seconds
+[2025-08-14 21:13:32] [INFO] 127.0.0.1:56048 requested connection to 104.244.46.93:3339
+[2025-08-14 21:13:36] [INFO] 127.0.0.1:56062 requested connection to 115.126.100.160:11010
+[2025-08-14 21:13:52] [INFO] 127.0.0.1:56062 disconnected, 0 bytes received, 194 bytes sent, lasted for 16 seconds
+[2025-08-14 21:13:52] [INFO] 127.0.0.1:56048 disconnected, 0 bytes received, 117 bytes sent, lasted for 20 seconds
+[2025-08-14 21:13:52] [INFO] 127.0.0.1:37934 disconnected, 0 bytes received, 194 bytes sent, lasted for 90 seconds
+[2025-08-14 21:14:17] [INFO] 127.0.0.1:34924 requested connection to 162.125.17.131:11010
+[2025-08-14 21:14:18] [INFO] 127.0.0.1:34926 requested connection to 50.220.121.211:3339
+[2025-08-14 21:15:30] [INFO] 127.0.0.1:44756 requested connection to 162.125.17.131:11010
+[2025-08-14 21:16:03] [INFO] 127.0.0.1:44756 disconnected, 0 bytes received, 194 bytes sent, lasted for 33 seconds
+[2025-08-14 21:16:03] [INFO] 127.0.0.1:34924 disconnected, 0 bytes received, 194 bytes sent, lasted for 106 seconds
+[2025-08-14 21:16:03] [INFO] 127.0.0.1:34926 disconnected, 3215 bytes received, 1996 bytes sent, lasted for 105 seconds
+[2025-08-14 21:16:20] [INFO] 127.0.0.1:44850 requested connection to 108.160.162.115:11010
+[2025-08-14 21:16:21] [INFO] 127.0.0.1:44858 requested connection to 108.160.169.37:3339
+[2025-08-14 21:17:27] [INFO] 127.0.0.1:44858 disconnected, 0 bytes received, 110 bytes sent, lasted for 66 seconds
+[2025-08-14 21:17:30] [INFO] 127.0.0.1:47126 requested connection to 202.160.128.195:3339
+[2025-08-14 21:17:35] [INFO] 127.0.0.1:47138 requested connection to 141.95.34.44:11010
+[2025-08-14 21:17:57] [INFO] 127.0.0.1:47138 disconnected, 6927 bytes received, 557 bytes sent, lasted for 22 seconds
+[2025-08-14 21:17:57] [INFO] 127.0.0.1:47126 disconnected, 0 bytes received, 110 bytes sent, lasted for 27 seconds
+[2025-08-14 21:17:57] [INFO] 127.0.0.1:44850 disconnected, 0 bytes received, 194 bytes sent, lasted for 97 seconds
+[2025-08-14 21:18:12] [INFO] 127.0.0.1:47612 requested connection to 104.244.43.228:11010
+[2025-08-14 21:18:15] [INFO] 127.0.0.1:47614 requested connection to 162.125.2.6:3339
+[2025-08-14 21:19:15] [INFO] 127.0.0.1:47612 disconnected, 0 bytes received, 194 bytes sent, lasted for 63 seconds
+[2025-08-14 21:19:15] [INFO] 127.0.0.1:47614 disconnected, 0 bytes received, 110 bytes sent, lasted for 60 seconds
+[2025-08-14 21:19:37] [INFO] 127.0.0.1:43854 requested connection to 128.242.245.93:11010
+[2025-08-14 21:19:39] [INFO] 127.0.0.1:43856 requested connection to 38.121.72.166:3339
+[2025-08-14 21:20:11] [INFO] 127.0.0.1:43854 disconnected, 0 bytes received, 194 bytes sent, lasted for 34 seconds
+[2025-08-14 21:20:11] [INFO] 127.0.0.1:43856 disconnected, 0 bytes received, 110 bytes sent, lasted for 32 seconds
+[2025-08-14 21:20:31] [INFO] 127.0.0.1:41824 requested connection to 104.244.43.228:11010
+[2025-08-14 21:20:32] [INFO] 127.0.0.1:41836 requested connection to 31.13.94.49:3339
+[2025-08-14 21:20:59] [INFO] 127.0.0.1:41824 disconnected, 0 bytes received, 194 bytes sent, lasted for 28 seconds
+[2025-08-14 21:20:59] [INFO] 127.0.0.1:41836 disconnected, 0 bytes received, 115 bytes sent, lasted for 27 seconds
+[2025-08-14 21:21:13] [INFO] 127.0.0.1:37168 requested connection to 104.244.43.228:11010
+[2025-08-14 21:21:14] [INFO] 127.0.0.1:37174 requested connection to 50.220.121.211:3339
+[2025-08-14 21:22:27] [INFO] 127.0.0.1:55274 requested connection to 185.60.218.50:11010
+[2025-08-14 21:23:24] [INFO] 127.0.0.1:37168 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 21:23:44] [INFO] 127.0.0.1:36748 requested connection to 104.244.43.228:11010
+[2025-08-14 21:24:38] [INFO] 127.0.0.1:55274 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 21:24:59] [INFO] 127.0.0.1:45226 requested connection to 185.60.218.50:11010
+[2025-08-14 21:25:55] [INFO] 127.0.0.1:36748 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 21:26:17] [INFO] 127.0.0.1:56630 requested connection to 31.13.95.35:11010
+[2025-08-14 21:27:13] [INFO] 127.0.0.1:45226 disconnected, 0 bytes received, 194 bytes sent, lasted for 134 seconds
+[2025-08-14 21:27:31] [INFO] 127.0.0.1:59662 requested connection to 168.143.171.93:11010
+[2025-08-14 21:28:29] [INFO] 127.0.0.1:56630 disconnected, 0 bytes received, 194 bytes sent, lasted for 132 seconds
+[2025-08-14 21:28:48] [INFO] 127.0.0.1:36248 requested connection to 31.13.95.35:11010
+[2025-08-14 21:29:43] [INFO] 127.0.0.1:59662 disconnected, 0 bytes received, 194 bytes sent, lasted for 132 seconds
+[2025-08-14 21:30:03] [INFO] 127.0.0.1:56752 requested connection to 141.95.124.89:11010
+[2025-08-14 21:30:22] [INFO] 127.0.0.1:56752 disconnected, 7228 bytes received, 557 bytes sent, lasted for 19 seconds
+[2025-08-14 21:30:26] [INFO] 127.0.0.1:36746 requested connection to 135.125.8.172:9720
+[2025-08-14 21:30:59] [INFO] 127.0.0.1:36248 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 21:46:57] [INFO] 127.0.0.1:36746 disconnected, 32385 bytes received, 552 bytes sent, lasted for 991 seconds
+[2025-08-14 21:47:05] [INFO] 127.0.0.1:51862 requested connection to 135.125.8.172:9720
+[2025-08-14 22:08:57] [INFO] 127.0.0.1:51862 disconnected, 48699 bytes received, 810 bytes sent, lasted for 1312 seconds
+[2025-08-14 22:09:13] [INFO] 127.0.0.1:46940 requested connection to 162.125.80.6:12020
+[2025-08-14 22:10:16] [INFO] 127.0.0.1:35850 requested connection to 199.59.149.201:11010
+[2025-08-14 22:11:23] [INFO] 127.0.0.1:46940 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 22:11:33] [INFO] 127.0.0.1:38880 requested connection to 108.160.165.139:11010
+[2025-08-14 22:12:29] [INFO] 127.0.0.1:35850 disconnected, 0 bytes received, 194 bytes sent, lasted for 133 seconds
+[2025-08-14 22:12:48] [INFO] 127.0.0.1:33760 requested connection to 199.59.149.201:11010
+[2025-08-14 22:13:43] [INFO] 127.0.0.1:38880 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 22:14:04] [INFO] 127.0.0.1:33152 requested connection to 108.160.165.139:11010
+[2025-08-14 22:14:58] [INFO] 127.0.0.1:33760 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 22:15:20] [INFO] 127.0.0.1:40508 requested connection to 104.244.43.229:11010
+[2025-08-14 22:16:14] [INFO] 127.0.0.1:33152 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 22:16:36] [INFO] 127.0.0.1:58818 requested connection to 104.244.43.229:11010
+[2025-08-14 22:17:30] [INFO] 127.0.0.1:40508 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 22:17:52] [INFO] 127.0.0.1:49852 requested connection to 141.95.34.186:11010
+[2025-08-14 22:18:01] [INFO] 127.0.0.1:49852 disconnected, 7228 bytes received, 557 bytes sent, lasted for 9 seconds
+[2025-08-14 22:18:04] [INFO] 127.0.0.1:59234 requested connection to 135.125.8.172:9720
+[2025-08-14 22:18:50] [INFO] 127.0.0.1:58818 disconnected, 0 bytes received, 194 bytes sent, lasted for 134 seconds
+[2025-08-14 22:34:57] [INFO] 127.0.0.1:59234 disconnected, 35805 bytes received, 552 bytes sent, lasted for 1013 seconds
+[2025-08-14 22:35:05] [INFO] 127.0.0.1:57862 requested connection to 135.125.8.172:9720
+[2025-08-14 22:58:57] [INFO] 127.0.0.1:57862 disconnected, 44994 bytes received, 810 bytes sent, lasted for 1432 seconds
+[2025-08-14 22:59:14] [INFO] 127.0.0.1:41246 requested connection to 108.160.165.48:12020
+[2025-08-14 23:00:15] [INFO] 127.0.0.1:56062 requested connection to 141.95.35.152:11010
+[2025-08-14 23:00:42] [INFO] 127.0.0.1:56062 disconnected, 7228 bytes received, 557 bytes sent, lasted for 27 seconds
+[2025-08-14 23:00:46] [INFO] 127.0.0.1:58712 requested connection to 135.125.8.172:9720
+[2025-08-14 23:01:30] [INFO] 127.0.0.1:41246 disconnected, 0 bytes received, 194 bytes sent, lasted for 136 seconds
+[2025-08-14 23:14:35] [INFO] 127.0.0.1:58712 disconnected, 18705 bytes received, 552 bytes sent, lasted for 829 seconds
+[2025-08-14 23:14:35] [INFO] 127.0.0.1:37174 disconnected, 172459 bytes received, 162559 bytes sent, lasted for 6801 seconds
+[2025-08-14 23:15:09] [INFO] 127.0.0.1:50298 requested connection to 141.95.34.186:11010
+[2025-08-14 23:15:10] [INFO] 127.0.0.1:50302 requested connection to 199.16.156.40:3339
+[2025-08-14 23:15:19] [INFO] 127.0.0.1:50298 disconnected, 7228 bytes received, 557 bytes sent, lasted for 10 seconds
+[2025-08-14 23:15:23] [INFO] 127.0.0.1:57442 requested connection to 31.13.85.2:12020
+[2025-08-14 23:16:00] [INFO] 127.0.0.1:57442 disconnected, 0 bytes received, 194 bytes sent, lasted for 37 seconds
+[2025-08-14 23:16:00] [INFO] 127.0.0.1:50302 disconnected, 0 bytes received, 115 bytes sent, lasted for 50 seconds
+[2025-08-14 23:16:18] [INFO] 127.0.0.1:45254 requested connection to 141.95.124.98:11010
+[2025-08-14 23:16:20] [INFO] 127.0.0.1:45258 requested connection to 114.43.24.59:3339
+[2025-08-14 23:16:38] [INFO] 127.0.0.1:45254 disconnected, 7228 bytes received, 557 bytes sent, lasted for 20 seconds
+[2025-08-14 23:16:41] [INFO] 127.0.0.1:58316 requested connection to 162.125.80.6:12020
+[2025-08-14 23:17:26] [INFO] 127.0.0.1:45258 disconnected, 0 bytes received, 106 bytes sent, lasted for 66 seconds
+[2025-08-14 23:17:29] [INFO] 127.0.0.1:42022 requested connection to 114.43.24.59:3339
+[2025-08-14 23:17:57] [INFO] 127.0.0.1:43886 requested connection to 141.95.34.186:11010
+[2025-08-14 23:18:09] [INFO] 127.0.0.1:43886 disconnected, 7228 bytes received, 557 bytes sent, lasted for 12 seconds
+[2025-08-14 23:18:12] [INFO] 127.0.0.1:45350 requested connection to 202.160.128.205:12020
+[2025-08-14 23:18:14] [INFO] 127.0.0.1:45350 disconnected, 0 bytes received, 194 bytes sent, lasted for 2 seconds
+[2025-08-14 23:18:14] [INFO] 127.0.0.1:42022 disconnected, 0 bytes received, 106 bytes sent, lasted for 45 seconds
+[2025-08-14 23:18:14] [INFO] 127.0.0.1:58316 disconnected, 0 bytes received, 194 bytes sent, lasted for 93 seconds
+[2025-08-14 23:18:27] [INFO] 127.0.0.1:38930 requested connection to 141.95.34.186:11010
+[2025-08-14 23:18:28] [INFO] 127.0.0.1:38944 requested connection to 103.252.114.11:3339
+[2025-08-14 23:19:11] [INFO] 127.0.0.1:38930 disconnected, 7228 bytes received, 557 bytes sent, lasted for 44 seconds
+[2025-08-14 23:19:14] [INFO] 127.0.0.1:55096 requested connection to 51.195.88.15:12020
+[2025-08-14 23:19:23] [INFO] 127.0.0.1:55096 disconnected, 7177 bytes received, 559 bytes sent, lasted for 9 seconds
+[2025-08-14 23:19:26] [INFO] 127.0.0.1:40516 requested connection to 51.195.88.15:12020
+[2025-08-14 23:19:34] [INFO] 127.0.0.1:38944 disconnected, 0 bytes received, 105 bytes sent, lasted for 66 seconds
+[2025-08-14 23:19:37] [INFO] 127.0.0.1:34858 requested connection to 103.252.114.11:3339
+[2025-08-14 23:19:56] [INFO] 127.0.0.1:40516 disconnected, 7177 bytes received, 559 bytes sent, lasted for 30 seconds
+[2025-08-14 23:19:59] [INFO] 127.0.0.1:35334 requested connection to 51.89.64.65:12020
+[2025-08-14 23:20:07] [INFO] 127.0.0.1:34858 disconnected, 0 bytes received, 105 bytes sent, lasted for 30 seconds
+[2025-08-14 23:20:07] [INFO] 127.0.0.1:35334 disconnected, 6893 bytes received, 559 bytes sent, lasted for 8 seconds
+[2025-08-14 23:20:32] [INFO] 127.0.0.1:35260 requested connection to 141.95.34.186:11010
+[2025-08-14 23:20:33] [INFO] 127.0.0.1:35264 requested connection to 108.160.163.112:3339
+[2025-08-14 23:21:01] [INFO] 127.0.0.1:35260 disconnected, 6626 bytes received, 557 bytes sent, lasted for 29 seconds
+[2025-08-14 23:21:09] [INFO] 127.0.0.1:44108 requested connection to 135.125.8.172:9720
+[2025-08-14 23:21:14] [INFO] 127.0.0.1:44108 disconnected, 2896 bytes received, 194 bytes sent, lasted for 5 seconds
+[2025-08-14 23:21:14] [INFO] 127.0.0.1:35264 disconnected, 0 bytes received, 101 bytes sent, lasted for 41 seconds
+[2025-08-14 23:21:29] [INFO] 127.0.0.1:46630 requested connection to 128.242.240.155:11010
+[2025-08-14 23:21:31] [INFO] 127.0.0.1:46642 requested connection to 114.43.24.59:3339
+[2025-08-14 23:22:01] [INFO] 127.0.0.1:46630 disconnected, 0 bytes received, 194 bytes sent, lasted for 32 seconds
+[2025-08-14 23:22:09] [INFO] 127.0.0.1:57932 requested connection to 135.125.8.172:9720
+[2025-08-14 23:22:33] [INFO] 127.0.0.1:57932 disconnected, 3885 bytes received, 552 bytes sent, lasted for 24 seconds
+[2025-08-14 23:22:33] [INFO] 127.0.0.1:46642 disconnected, 0 bytes received, 101 bytes sent, lasted for 62 seconds
+[2025-08-14 23:23:39] [INFO] 127.0.0.1:34428 requested connection to 108.160.170.43:11010
+[2025-08-14 23:23:41] [INFO] 127.0.0.1:34438 requested connection to 103.252.114.11:3339
+[2025-08-14 23:24:01] [INFO] 127.0.0.1:34428 disconnected, 0 bytes received, 194 bytes sent, lasted for 22 seconds
+[2025-08-14 23:24:04] [INFO] 127.0.0.1:34438 disconnected, 0 bytes received, 110 bytes sent, lasted for 23 seconds
+[2025-08-14 23:24:31] [INFO] 127.0.0.1:53332 requested connection to 65.49.26.99:11010
+[2025-08-14 23:24:33] [INFO] 127.0.0.1:53336 requested connection to 162.125.32.9:3339
+[2025-08-14 23:25:38] [INFO] 127.0.0.1:53336 disconnected, 0 bytes received, 110 bytes sent, lasted for 65 seconds
+[2025-08-14 23:25:41] [INFO] 127.0.0.1:46326 requested connection to 162.125.32.9:3339
+[2025-08-14 23:25:46] [INFO] 127.0.0.1:46340 requested connection to 31.13.73.9:11010
+[2025-08-14 23:26:41] [INFO] 127.0.0.1:46340 disconnected, 0 bytes received, 194 bytes sent, lasted for 55 seconds
+[2025-08-14 23:26:41] [INFO] 127.0.0.1:46326 disconnected, 0 bytes received, 110 bytes sent, lasted for 60 seconds
+[2025-08-14 23:26:41] [INFO] 127.0.0.1:53332 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 23:27:47] [INFO] 127.0.0.1:41840 requested connection to 65.49.26.99:11010
+[2025-08-14 23:27:49] [INFO] 127.0.0.1:41846 requested connection to 50.220.121.211:3339
+[2025-08-14 23:29:02] [INFO] 127.0.0.1:37044 requested connection to 31.13.84.2:11010
+[2025-08-14 23:29:58] [INFO] 127.0.0.1:41840 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 23:30:17] [INFO] 127.0.0.1:58300 requested connection to 31.13.84.2:11010
+[2025-08-14 23:31:12] [INFO] 127.0.0.1:37044 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 23:31:33] [INFO] 127.0.0.1:54156 requested connection to 31.13.84.2:11010
+[2025-08-14 23:32:27] [INFO] 127.0.0.1:58300 disconnected, 0 bytes received, 194 bytes sent, lasted for 130 seconds
+[2025-08-14 23:32:50] [INFO] 127.0.0.1:49012 requested connection to 108.160.170.45:11010
+[2025-08-14 23:33:45] [INFO] 127.0.0.1:54156 disconnected, 0 bytes received, 194 bytes sent, lasted for 132 seconds
+[2025-08-14 23:34:06] [INFO] 127.0.0.1:43042 requested connection to 108.160.170.45:11010
+[2025-08-14 23:35:03] [INFO] 127.0.0.1:49012 disconnected, 0 bytes received, 194 bytes sent, lasted for 133 seconds
+[2025-08-14 23:35:21] [INFO] 127.0.0.1:55550 requested connection to 108.160.170.45:11010
+[2025-08-14 23:36:17] [INFO] 127.0.0.1:43042 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 23:36:37] [INFO] 127.0.0.1:47076 requested connection to 75.126.150.210:11010
+[2025-08-14 23:37:33] [INFO] 127.0.0.1:55550 disconnected, 0 bytes received, 194 bytes sent, lasted for 132 seconds
+[2025-08-14 23:37:53] [INFO] 127.0.0.1:52352 requested connection to 31.13.96.193:11010
+[2025-08-14 23:38:48] [INFO] 127.0.0.1:47076 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 23:39:09] [INFO] 127.0.0.1:41344 requested connection to 157.240.18.18:11010
+[2025-08-14 23:40:04] [INFO] 127.0.0.1:52352 disconnected, 0 bytes received, 194 bytes sent, lasted for 131 seconds
+[2025-08-14 23:40:26] [INFO] 127.0.0.1:53448 requested connection to 104.244.43.229:11010
